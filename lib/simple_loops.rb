@@ -35,6 +35,6 @@ def return_string_array(array)
  while count < array.length do
   new_array.push(array[count].to_s)
    count += 1
-  new_array
  end
+   new_array
 end
